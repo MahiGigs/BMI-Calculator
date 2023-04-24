@@ -1,0 +1,1 @@
+Calculates the BMI of a person.
